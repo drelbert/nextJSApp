@@ -18,7 +18,7 @@ export default ({ content }) => (
 )
 
 export async function getStaticProps() {
-  // get data from cms
+  // mocking a get data from cms
 
   return {
     props: {
